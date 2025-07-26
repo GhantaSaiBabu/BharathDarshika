@@ -27,17 +27,17 @@ It provides a powerful interface for discovering tourist places by zones and sta
 ---
 
 ### 🧑‍💻 Admin Dashboard  
-![Admin Dashboard](screenshots/admin.png)
+![Admin Dashboard](images/admin.png)
 
 ---
 
 ### 🗺️ State-wise Tourist View  
-![State View](screenshots/.png)
+![State View](images/.png)
 
 ---
 
 ### 🤖 Chatbot Assistant  
-![Chatbot View](screenshots/chatbot.png)
+![Chatbot View](images/chatbot.png)
 
 ---
 
