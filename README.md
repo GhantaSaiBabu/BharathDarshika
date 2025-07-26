@@ -32,7 +32,7 @@ It provides a powerful interface for discovering tourist places by zones and sta
 ---
 
 ### 🗺️ State-wise Tourist View  
-![State View](images/.png)
+![State View](images/places.png)
 
 ---
 
