@@ -1,38 +1,48 @@
-# 🇮🇳 Bharath Darshika - Explore Incredible India
+# 🇮🇳 Bharath Darshika
 
-**Bharath Darshika** is a modern tourism web application designed to guide users through India's most beautiful destinations. From spiritual temples to adventurous treks and beaches, this platform provides detailed information, smart recommendations, and booking options — all in one place.
-
----
-
-## 🌟 Key Features
-
-- 🌐 Tourism categorized by Zones: South, North, East, West
-- 📍 State-wise tourist attractions: Temples, Beaches, Forests, Hills, etc.
-- 💼 Skilled Worker Profiles based on location & need (guides, drivers, etc.)
-- 🧳 Travel Packages: High-end, Medium, and Budget-friendly
-- 🔍 Image Recognition: Upload an image to identify a place (AI-powered)
-- 💬 Smart Chatbot Assistant for user help
-- 🎨 Beautiful, responsive UI with dark mode toggle
-- 🗺️ Google Maps integration for place directions
-- 👤 Admin Dashboard to manage states, places, packages, images
-- 🔐 Login & Session-based secured access
+**Bharath Darshika** is a modern tourism web app to explore India's diverse and rich heritage.  
+It provides a powerful interface for discovering tourist places by zones and states, including spiritual, adventurous, and natural destinations.
 
 ---
 
-## 💻 Technologies Used
+## ✨ Features
 
-- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript
-- **Backend:** PHP
-- **Database:** MySQL
-- **Extras:** Google Maps API, Dark Mode, AI (optional Python Flask), JS chatbot
+- 🧭 Zone-wise & State-wise Place Listings
+- 🏖️ Categories: Temples, Beaches, Hills, Forests
+- 🧑‍🔧 Skilled Workers (Guides, Drivers) based on Location
+- 🧳 Travel Packages (High, Medium, Low Budget)
+- 🤖 Smart Chatbot for User Help
+- 🖼️ Upload Image to Detect Tourist Place (AI Feature)
+- 🧑‍💼 Admin Dashboard (Add/Edit/Delete States & Places)
+- 🌓 Dark Mode Toggle
+- 📍 Google Maps Integration
 
 ---
 
-## 🛠️ How to Run
+## 🖼️ Screenshots
 
-1. ✅ Install XAMPP / MAMP and start Apache & MySQL
-2. ✅ Place project folder in `htdocs`
-3. ✅ Import `bharathdarshika.sql` into phpMyAdmin
-4. ✅ Update DB credentials in your PHP config file:
-   ```php
-   $conn = mysqli_connect("localhost", "root", "", "bharathdarshika");
+### 🏠 Home Page  
+![Home Page](images/main.png)
+
+---
+
+### 🧑‍💻 Admin Dashboard  
+![Admin Dashboard](screenshots/admin.png)
+
+---
+
+### 🗺️ State-wise Tourist View  
+![State View](screenshots/.png)
+
+---
+
+### 🤖 Chatbot Assistant  
+![Chatbot View](screenshots/chatbot.png)
+
+---
+
+
+## 🪪 License
+
+Licensed under **MIT License** — use, share, and build with credit.
+
